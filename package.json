@@ -1,5 +1,6 @@
 {
   "name": "yoda-translator-app",
+  "homepage": "https://PhillipNGay.github.io/YodaTranslatorAppAPI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
