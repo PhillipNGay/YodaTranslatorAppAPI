@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/YodaTranslatorAppAPI/static/css/main.073c9b0a.css",
-    "main.js": "/YodaTranslatorAppAPI/static/js/main.087aee82.js",
+    "main.css": "/YodaTranslatorAppAPI/static/css/main.e6c13ad2.css",
+    "main.js": "/YodaTranslatorAppAPI/static/js/main.6536e576.js",
     "static/js/787.1c45ad38.chunk.js": "/YodaTranslatorAppAPI/static/js/787.1c45ad38.chunk.js",
-    "static/media/logo.svg": "/YodaTranslatorAppAPI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/YodaTranslatorAppAPI/index.html",
-    "main.073c9b0a.css.map": "/YodaTranslatorAppAPI/static/css/main.073c9b0a.css.map",
-    "main.087aee82.js.map": "/YodaTranslatorAppAPI/static/js/main.087aee82.js.map",
+    "main.e6c13ad2.css.map": "/YodaTranslatorAppAPI/static/css/main.e6c13ad2.css.map",
+    "main.6536e576.js.map": "/YodaTranslatorAppAPI/static/js/main.6536e576.js.map",
     "787.1c45ad38.chunk.js.map": "/YodaTranslatorAppAPI/static/js/787.1c45ad38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.087aee82.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6536e576.js"
   ]
 }
