@@ -41,7 +41,7 @@ export default function App() {
 
   const onTranslateClick = () => {
     axios
-      .get("/translate/yoda.json", { text })
+      .get("https://api.funtranslations.com/translate/yoda.json", { text })
       .then(res => {
         const { translated } = res.data.contents;
         setYodaText(translated);
