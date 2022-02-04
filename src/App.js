@@ -32,12 +32,16 @@ const styles = {
 };
 
 export default function App() {
+
+
+
+
   let [text, setText] = useState("");
   let [yodaText, setYodaText] = useState("");
 
   const onTranslateClick = () => {
     axios
-      .post("/translate/yoda.json", { text })
+      .get("/translate/yoda.json", { text })
       .then(res => {
         const { translated } = res.data.contents;
         setYodaText(translated);
