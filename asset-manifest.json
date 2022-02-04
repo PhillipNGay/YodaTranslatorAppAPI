@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YodaTranslatorAppAPI/static/css/main.e6c13ad2.css",
-    "main.js": "/YodaTranslatorAppAPI/static/js/main.1830b34b.js",
+    "main.js": "/YodaTranslatorAppAPI/static/js/main.2cc9fa7a.js",
     "static/js/787.1c45ad38.chunk.js": "/YodaTranslatorAppAPI/static/js/787.1c45ad38.chunk.js",
     "index.html": "/YodaTranslatorAppAPI/index.html",
     "main.e6c13ad2.css.map": "/YodaTranslatorAppAPI/static/css/main.e6c13ad2.css.map",
-    "main.1830b34b.js.map": "/YodaTranslatorAppAPI/static/js/main.1830b34b.js.map",
+    "main.2cc9fa7a.js.map": "/YodaTranslatorAppAPI/static/js/main.2cc9fa7a.js.map",
     "787.1c45ad38.chunk.js.map": "/YodaTranslatorAppAPI/static/js/787.1c45ad38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1830b34b.js"
+    "static/js/main.2cc9fa7a.js"
   ]
 }
